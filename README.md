@@ -1,4 +1,4 @@
-## Hi there 👋 Hola 👋 こんにちは 👋
+## Hi there 👋 
 
 ![Senjougahara](media/main.gif)
 <!--
