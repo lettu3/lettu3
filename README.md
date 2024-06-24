@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Senjougahara](media/main.gif)
 <!--
 **lettu3/lettu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
