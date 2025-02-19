@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Checkout my portfolio: https://lettu3.github.io/
+Checkout my personal website: https://lettu3.github.io/
